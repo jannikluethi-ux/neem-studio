@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/characters/chr_q",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Neem Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 3839,
+      "bodyTextHash": "7bb665c6b8604d6f679313143086917f69a9a40a78611a45ed039df142ba55af",
+      "bodyTextPrefix": "Neem Studio India · Hindi · 3-5 · Asha Menon Studio Canon Charac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/meethi-image.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Neem Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 3839,
+      "bodyTextHash": "7bb665c6b8604d6f679313143086917f69a9a40a78611a45ed039df142ba55af",
+      "bodyTextPrefix": "Neem Studio India · Hindi · 3-5 · Asha Menon Studio Canon Charac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/meethi-image-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/meethi-image.json"
+}

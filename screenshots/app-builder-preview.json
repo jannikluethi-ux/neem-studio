@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Neem Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 3251,
+      "bodyTextHash": "f16c59d6e77f8f4631a5267c5a74f3d8381b180041930dae7c78d7b1f69f7564",
+      "bodyTextPrefix": "Neem Studio India · Hindi · 3-5 · Asha Menon Studio Canon Charac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Neem Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 3251,
+      "bodyTextHash": "f16c59d6e77f8f4631a5267c5a74f3d8381b180041930dae7c78d7b1f69f7564",
+      "bodyTextPrefix": "Neem Studio India · Hindi · 3-5 · Asha Menon Studio Canon Charac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

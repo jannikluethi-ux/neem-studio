@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/architecture",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Neem Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 2605,
+      "bodyTextHash": "c3d233dffbeba9991260173d648fbb7fe8dd7adfe0d1002f88ce50892719711b",
+      "bodyTextPrefix": "Neem Studio India · Hindi · 3-5 · Asha Menon Studio Canon Charac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/architecture-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Neem Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 2605,
+      "bodyTextHash": "c3d233dffbeba9991260173d648fbb7fe8dd7adfe0d1002f88ce50892719711b",
+      "bodyTextPrefix": "Neem Studio India · Hindi · 3-5 · Asha Menon Studio Canon Charac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/architecture-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/architecture-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

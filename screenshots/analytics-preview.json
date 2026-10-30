@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/analytics",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Neem Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 2034,
+      "bodyTextHash": "828a01c7135da4e52a5cbbce75a5ee1251d08a63c3987730144e46ad5ebcb3fc",
+      "bodyTextPrefix": "Neem Studio India · Hindi · 3-5 · Asha Menon Studio Canon Charac",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\n%s%s https://react.dev/link/hydration-mismatch \n\n  ...\n    <MatchImpl routeId=\"/analytics\">\n      <MatchView router={{...}} match={{id:\"/analy...\", ...}}>\n        <CatchBoundary getResetKey={function getResetKey} errorComponent={function AppErrorComponent} ...>\n          <MatchInnerImpl match={{id:\"/analy...\", ...}}>\n            <Lazy>\n              <AnalyticsPage>\n                <Page kicker=\"Analytics\" title=\"What happe...\" lede=\"Measuremen...\">\n                  <div className=\"mx-auto w-...\">\n                    <header>\n                    <div className=\"flex flex-...\">\n                      <Card>\n                      <Card>\n                        <section className={\"rounded-...\"}>\n                          <h2>\n                          <ul>\n                          <p>\n                          <div className=\"mt-4 grid ...\">\n                            <Field label=\"Hypothetic...\">\n                              <label className=\"flex flex-...\">\n                                <span>\n                                <input\n                                  className=\"min-h-11 rounded-sm border border-line bg-paper px-3 text-sm text-ink out...\"\n                                  value=\"Hypothetical lane episode\"\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                            <Field label=\"Story stru...\">\n                              <label className=\"flex flex-...\">\n                                <span>\n                                <input\n                                  className=\"min-h-11 rounded-sm border border-line bg-paper px-3 text-sm text-ink out...\"\n                                  value=\"help-a-friend\"\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                            <Field label=\"Characters\">\n                              <label className=\"flex flex-...\">\n                                <span>\n                                <input\n                                  className=\"min-h-11 rounded-sm border border-line bg-paper px-3 text-sm text-ink out...\"\n                                  value=\"Meethi, Golu\"\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                            <Field label=\"Retention,...\">\n                              <label className=\"flex flex-...\">\n                                <span>\n                                <input\n                                  className=\"min-h-11 rounded-sm border border-line bg-paper px-3 text-sm text-ink out...\"\n                                  inputMode=\"decimal\"\n                                  value=\"62\"\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                            <Field label=\"Views, lea...\">\n                              <label className=\"flex flex-...\">\n                                <span>\n                                <input\n                                  className=\"min-h-11 rounded-sm border border-line bg-paper px-3 text-sm text-ink out...\"\n                                  inputMode=\"numeric\"\n                                  value=\"\"\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                          ...\n                      <Card>\n                      <Card>\n                        <section className={\"rounded-...\"}>\n                          <h2>\n                          <p>\n                          <ul>\n                          <div className=\"mt-4 grid ...\">\n                            <Field label=\"Hypothesis\">\n                              <label className=\"flex flex-...\">\n                                <span>\n                                <textarea\n                                  className=\"min-h-11 rounded-sm border border-line bg-paper px-3 text-sm text-ink out...\"\n                                  rows={2}\n                                  value=\"A single clear problem may hold attention better than two problems.\"\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                            <Field label=\"Result not...\">\n                              <label className=\"flex flex-...\">\n                                <span>\n                                <textarea\n                                  className=\"min-h-11 rounded-sm border border-line bg-paper px-3 text-sm text-ink out...\"\n                                  rows={2}\n                                  value=\"Not enough episodes yet to separate the groups.\"\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                          ...\n                      ...\n"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/analytics-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Neem Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 2034,
+      "bodyTextHash": "828a01c7135da4e52a5cbbce75a5ee1251d08a63c3987730144e46ad5ebcb3fc",
+      "bodyTextPrefix": "Neem Studio India · Hindi · 3-5 · Asha Menon Studio Canon Charac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/analytics-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/analytics-preview.json"
+}

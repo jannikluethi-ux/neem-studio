@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "storageRef": "session/character-image/chr_q/1792195981481",
+      "mediaType": "image/jpeg",
+      "checksum": "46445a04",
+      "byteLength": 216566,
+      "file": "meethi-candidate.jpg",
+      "version": 1
+    },
+    {
+      "storageRef": "session/character-image/chr_q/1792197580321",
+      "mediaType": "image/jpeg",
+      "checksum": "978858de",
+      "byteLength": 183837,
+      "file": "meethi-candidate-v2.jpg",
+      "version": 2
+    }
+  ]
+}
